@@ -53,8 +53,8 @@ gan.fit(train_ds=train_color_ds, epochs=10)
 ```
 
 ## Results
-### Epoch 1
-![Result Image - Epoch 1](results/epoch1_result.jpg)
+### Epoch 0
+![Result Image - Epoch 1](Images/Epoch0.png)
 
 ### Epoch 10
-![Result Image - Epoch 10](results/epoch10_result.jpg)
+![Result Image - Epoch 10](Images/Results.png)
