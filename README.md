@@ -54,7 +54,7 @@ gan.fit(train_ds=train_color_ds, epochs=10)
 
 ## Results
 ### Epoch 0
-![Result Image - Epoch 1](Images/Epoch0.png)
+![Epoch0](https://github.com/Srini-Rohan/Image-Coloration/assets/76437900/3d4a252a-1b26-4ed0-992f-e33df628a3c4)
 
 ### Epoch 10
-![Result Image - Epoch 10](Images/Results.png)
+![Results](https://github.com/Srini-Rohan/Image-Coloration/assets/76437900/0467222f-e023-48b6-a484-16cb08cab586)
