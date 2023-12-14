@@ -24,7 +24,7 @@ The project is organized into three main files:
 ### 1. model.py
 This file contains the implementation of the Pix2Pix GAN. The GAN consists of a generator and a discriminator, each defined as separate functions within the Pix2PixGAN class. The generator is responsible for transforming input grayscale images into colorized versions, while the discriminator evaluates the authenticity of the generated images.
 
-### 2. Dataset.py
+### 2. dataset.py
 This file provides utility functions for preparing the dataset. The Dataset function loads and preprocesses color and grayscale images from specified directories. It returns train and test datasets for both color and grayscale images.
 
 ### 3. utils.py
