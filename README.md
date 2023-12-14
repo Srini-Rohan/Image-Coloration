@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Project Structure
 The project is organized into three main files:
 
-### 1. Pix2PixGAN.py
+### 1. model.py
 This file contains the implementation of the Pix2Pix GAN. The GAN consists of a generator and a discriminator, each defined as separate functions within the Pix2PixGAN class. The generator is responsible for transforming input grayscale images into colorized versions, while the discriminator evaluates the authenticity of the generated images.
 
 ### 2. Dataset.py
