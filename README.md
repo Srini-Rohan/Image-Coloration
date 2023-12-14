@@ -14,7 +14,7 @@ This project implements the Pix2Pix Generative Adversarial Network (GAN) for ima
 Clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/Srini-Rohan/Image-Coloration
-cd pix2pix-coloration
+cd Image-Coloration
 pip install -r requirements.txt
 ```
 
